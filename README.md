@@ -14,3 +14,4 @@ In this project, I collected my personal music streaming data, provided by Spofi
      	<br>I discovered almost <b>triple</b> the number of new songs compared to new artists.</br>
 
 I hope you enjoy the work!
+<a href="https://public.tableau.com/app/profile/beatriz.marin8034/viz/MyPlaylistinQuarantine/Painel1">Link to Tableau Dashboard</a>
